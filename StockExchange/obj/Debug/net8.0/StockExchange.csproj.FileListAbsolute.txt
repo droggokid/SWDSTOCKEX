@@ -1,0 +1,14 @@
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\bin\Debug\net8.0\StockExchange.exe
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\bin\Debug\net8.0\StockExchange.deps.json
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\bin\Debug\net8.0\StockExchange.runtimeconfig.json
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\bin\Debug\net8.0\StockExchange.dll
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\bin\Debug\net8.0\StockExchange.pdb
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\obj\Debug\net8.0\StockExchange.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\obj\Debug\net8.0\StockExchange.AssemblyInfoInputs.cache
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\obj\Debug\net8.0\StockExchange.AssemblyInfo.cs
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\obj\Debug\net8.0\StockExchange.csproj.CoreCompileInputs.cache
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\obj\Debug\net8.0\StockExchange.dll
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\obj\Debug\net8.0\refint\StockExchange.dll
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\obj\Debug\net8.0\StockExchange.pdb
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\obj\Debug\net8.0\StockExchange.genruntimeconfig.cache
+c:\Users\domi\Desktop\c sharp\StockExchange\StockExchange\obj\Debug\net8.0\ref\StockExchange.dll
